@@ -1,6 +1,6 @@
 # AutoSmelter
 
-AutoSmelter Minecraft Mod (Version 26.1.2) NeoFotge sürümü için yapılmıştır.
+AutoSmelter Minecraft Mod (Version 26.1.2) NeoForge sürümü için yapılmıştır. İsteğe göre Fabric veya Forge'a uyarlayabilirim.
 
 Bu mod, Minecraft oyununda madenlerin otomatik olarak eritilmesini sağlar. 
 
